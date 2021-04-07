@@ -1,0 +1,24 @@
+{
+	"info": {
+		"_postman_id": "1ad0806d-6f0c-4209-bd9e-5b23eba51a92",
+		"name": "github-exercise",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "example.com",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "example.com",
+					"host": [
+						"example",
+						"com"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
