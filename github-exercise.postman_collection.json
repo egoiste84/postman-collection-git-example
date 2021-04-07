@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "example.com",
+			"name": "My first request",
 			"request": {
 				"method": "GET",
 				"header": [],
